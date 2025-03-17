@@ -1,5 +1,5 @@
 <div align='center'>
-
+  
 # SelfHost-DL
 
 <p>SelfHost-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.</p>
@@ -8,6 +8,12 @@
 ---------------
 
 <div align='center'>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/000mistra000/selfhost-dl?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/000mistra000/selfhost-dl?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/000mistra000/selfhost-dl?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/000mistra000/selfhost-dl?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/000mistra000/selfhost-dl?style=for-the-badge)
 
 # SCREENSHOT
 
