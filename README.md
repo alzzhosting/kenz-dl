@@ -1,8 +1,8 @@
 <div align='center'>
   
-# SelfHost-DL
+# Kenz-DL
 
-<p>SelfHost-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.</p>
+<p>Kenz-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.</p>
 </div>
 
 ---------------
@@ -63,8 +63,8 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/000mistra000/selfhost-dl.git
-   cd selfhost-dl
+   git clone https://github.com/alzzhosting/kenz-dl.git
+   cd kenz-dl
    ```
 
 2. **Install dependencies:**
@@ -97,8 +97,8 @@
 
 2. **Clone the repository:**
    ```sh
-   git clone https://github.com/000mistra000/selfhost-dl.git
-   cd selfhost-dl
+   git clone https://github.com/alzzhosting/kenz-dl.git
+   cd kenz-dl
    ```
 
 3. **Install dependencies:**
@@ -129,7 +129,7 @@
 Click the button below to instantly deploy to **Vercel**:
 
 <p align="center">
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/000mistra000/selfhost-dl">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/alzzhosting/kenz-dl">
     <img src="https://vercel.com/button" alt="Deploy to Vercel"/>
   </a>
 </p>
